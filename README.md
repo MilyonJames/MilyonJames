@@ -1,5 +1,5 @@
 <div align="center">
-  [![MilyonJames](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=MilyonJames&theme=algolia&custom_title=MilyonJames&show_icons=true)](https://github.com/GTA-EXPLORE)
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=MilyonJames&theme=algolia&custom_title=MilyonJames&show_icons=true&include_all_commits=true"/>
 </div>
 <div align="center" style="display: inline_block;"><br>
   <img align="center" alt="Master-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
