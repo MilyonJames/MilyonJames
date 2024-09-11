@@ -1,1 +1,1 @@
-[![MilyonJames' GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=MilyonJames&include_orgs=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![MilyonJames](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=MilyonJames&include_orgs=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
