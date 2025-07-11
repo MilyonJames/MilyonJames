@@ -7,7 +7,8 @@
   <img align="center" alt="Master-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Master-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
+<br>
 <div align="center">
-  Contributions to NovaCity
+  <h1>Contributions to NovaCity</h1>
   <img align="center" src="/novacity_contributions.png">
 </div>
